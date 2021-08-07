@@ -3,6 +3,7 @@
   margin: 20px auto;
   font-family: "Lexend Deca", sans-serif;
   font-size: 15px;
+  line-height: 22.5px;
   color: hsla(0, 0%, 100%, 0.75);
   display: -webkit-box;
   display: -ms-flexbox;
@@ -123,5 +124,9 @@
     border-bottom-left-radius: unset;
     border-bottom-right-radius: 10px;
     border-top-right-radius: 10px;
+  }
+
+  .parrafos{
+    margin: 10px 0 60px;
   }
 }
